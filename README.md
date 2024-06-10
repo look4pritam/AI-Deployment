@@ -1,10 +1,5 @@
 # AI Deployment
 
-### Edge AI
-- [IBM - What is edge AI?](https://www.ibm.com/topics/edge-ai)
- 
-### Cloud AI
-- 
-
-### Distributed AI
--
+- [Edge AI](Edge-AI) 
+- [Cloud AI](Cloud-AI)
+- [Distributed AI](Distributed-AI)
